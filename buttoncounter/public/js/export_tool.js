@@ -10,11 +10,13 @@ frappe.buttoncounter.ExportTool = class {   // create a glue class, wich will ma
                 this.make_body();
         }
         make_body() {
+                console.log("hi")
                 this.$export_tool_container = this.$parent.find('.layout-main');   // bind the new Vue instance to the main <div> on the page
                 this.vue = new Vue({
                         el: this.$export_tool_container[0],
                         data: {
                         },
+                        render:h => h(ToolRoot),
 
                 });
         }
