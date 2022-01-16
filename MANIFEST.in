@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include buttoncounter *.css
+recursive-include buttoncounter *.csv
+recursive-include buttoncounter *.html
+recursive-include buttoncounter *.ico
+recursive-include buttoncounter *.js
+recursive-include buttoncounter *.json
+recursive-include buttoncounter *.md
+recursive-include buttoncounter *.png
+recursive-include buttoncounter *.py
+recursive-include buttoncounter *.svg
+recursive-include buttoncounter *.txt
+recursive-exclude buttoncounter *.pyc

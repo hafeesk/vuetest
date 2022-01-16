@@ -1,0 +1,19 @@
+{
+ "content": null, 
+ "creation": "2022-01-16 14:18:25.694330", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2022-01-16 14:38:49.547195", 
+ "modified_by": "Administrator", 
+ "module": "Buttoncounter", 
+ "name": "buttoncounter", 
+ "owner": "Administrator", 
+ "page_name": "buttoncounter", 
+ "roles": [], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "system_page": 0, 
+ "title": "Button Counter"
+}
